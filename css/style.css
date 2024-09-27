@@ -1,0 +1,10 @@
+body {
+    background-color: #FAF7F0;
+}
+
+
+.cont-pr .row * {
+    padding: 1rem 2rem;
+    background-color: rgba(137, 43, 226, 0.712);
+    border: 1px blueviolet solid;
+}
